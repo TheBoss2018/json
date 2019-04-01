@@ -1,0 +1,30 @@
+{
+    "server":[
+        {
+            "name":"MSGUIDES",
+            "url":"kms8.msguides.com"
+        }
+    ],
+    "system":[
+        {
+            "version":"Home",
+            "key":"TX9XD-98N7V-6WMQ6-BX7FG-H8Q99"
+        },
+        {
+            "version":"Home Single Language",
+            "key":"7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH"
+        },
+        {
+            "version":"Professional",
+            "key":"W269N-WFGWX-YVC9B-4J6C9-T83GX"
+        },
+        {
+            "version":"Enterprise",
+            "key":"NPPR9-FWDCX-D2C8J-H872K-2YT43"
+        },
+        {
+            "version":"Enterprise LTSC",
+            "key":"M7XTQ-FN8P6-TTKYV-9D4CC-J462D"
+        }
+    ]
+}
